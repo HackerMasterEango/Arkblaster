@@ -1,0 +1,89 @@
+{
+  "map": "NL-4",
+  "team": {
+    "saileach": {
+      "level": 1,
+      "promotion": "e2",
+      "skill": "s1",
+      "skill level": 7,
+      "masteries": 0
+    },
+    "blaze": {
+      "level": 26,
+      "promotion": "e2",
+      "skill": "s2",
+      "skill level": 7,
+      "masteries": 0
+    },
+    "pallas": {
+      "level": 40,
+      "promotion": "e2",
+      "skill": "s3",
+      "skill level": 7,
+      "masteries": 3
+    },
+    "surtr": {
+      "level": 26,
+      "promotion": "e2",
+      "skill": "s3",
+      "skill level": 7,
+      "masteries": 0
+    },
+    "whisperain": {
+      "level": 33,
+      "promotion": "e2",
+      "skill": "s2",
+      "skill level": 7,
+      "masteries": 0
+    },
+    "ptilopsis": {
+      "level": 32,
+      "promotion": "e2",
+      "skill": "s2",
+      "skill level": 7,
+      "masteries": 3
+    },
+    "eyjafjalla": {
+      "level": 31,
+      "promotion": "e2",
+      "skill": "s2",
+      "skill level": 7,
+      "masteries": 0
+    },
+    "nian": {
+      "level": 90,
+      "promotion": "e2",
+      "skill": "s3",
+      "skill level": 7,
+      "masteries": 3
+    },
+    "swire": {
+      "level": 80,
+      "promotion": "e2",
+      "skill": "s2",
+      "skill level": 7,
+      "masteries": 3
+    },
+    "projekt red": {
+      "level": 51,
+      "promotion": "e1",
+      "skill": "s2",
+      "skill level": 7,
+      "masteries": 0
+    },
+    "rope": {
+      "level": 50,
+      "promotion": "e1",
+      "skill": "s1",
+      "skill level": 7,
+      "masteries": 0
+    },
+    "feater": {
+      "level": 52,
+      "promotion": "e1",
+      "skill": "s1",
+      "skill level": 7,
+      "masteries": 0
+    }
+  }
+}
